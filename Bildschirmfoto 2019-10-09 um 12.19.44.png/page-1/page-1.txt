@@ -1,0 +1,17 @@
+
+[image: image0.png]Get Programming Languages Metrics for Comparisor
+
+This endpoint retrieves statistics for specified programming language. By «
+returns all statistics for all languages
+
+HTTP Request
+
+GET http://example.com/comparisons
+
+Query Parameters
+Parameter Type Required Description
+
+langiianec ide etring falco Cnarified langiiagqec ide for
+
+
+
